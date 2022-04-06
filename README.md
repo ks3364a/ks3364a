@@ -4,7 +4,7 @@
   - Moved from India to become a DJ @17, switched to Finance and now in the Tech Industry<br />
   - Hoping to make an impact, drawn to new and difficult things. 
   - Change is hard but necessary. Always willing to learn.
-  - Love to read, listen, learn, and teach.<br />
+  - Love to read, learn, and teach.<br />
 
 ## **Education 👨‍🎓**
  - Master in Artificial Intelligence - Khoury College of Computer Sciences, Northeastern University, (exp grad - Dec 2022)
