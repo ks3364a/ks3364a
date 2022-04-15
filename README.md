@@ -7,7 +7,7 @@
   - Love to read, learn, and teach.<br />
 
 ## **Education 👨‍🎓**
- - Master in Artificial Intelligence - Khoury College of Computer Sciences, Northeastern University, (exp grad - Dec 2022)
+ - Master in Computer Science - Khoury College of Computer Sciences, Northeastern University, (expected grad - Dec 2022)
  - Bachelors of Science in Finance - Kogod School of Business, American University, Washington D.C. (grad Dec - 2018)
 
 ## **Skills 🎓**
